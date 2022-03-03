@@ -1,2 +1,2 @@
-# Bootcamp HTML Web Developer 03
- 03 Projeto - Recriando o jogo da cobrinha com Javascript, realizado 25/11/21
+# Projeto jogo da cobrinha
+ Projeto realizado durante Bootcamp HTML Web Developer - Recriando o jogo da cobrinha com Javascript, realizado 25/11/21
